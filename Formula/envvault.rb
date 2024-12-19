@@ -1,8 +1,8 @@
 class Envvault < Formula
     desc "Secure, scalable, and collaborative environment variable management"
     homepage "https://envvault.com/"
-    url "https://envvault.com/releases/envvault-1.0.0.tar.gz"
-    sha256 "cf92906d3c786eca81a4d6386b95a101aadd109eaee3a87889942900570af0ed"
+    url "https://envvault.com/releases/envvault-0.0.2.tar.gz"
+    sha256 "ab305c220721c4cb8be0db5420824f97b6c98ba1a6435875618a348ba9370fbc"
     license "MIT"
   
     depends_on "libtool" => :build
